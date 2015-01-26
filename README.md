@@ -1,4 +1,4 @@
 RepData_PeerAssessment2
 =======================
 
-Peer Assignment 2 - Reproducible Research
+Please refer the HTML file in case the PDF is not clearly visible.
